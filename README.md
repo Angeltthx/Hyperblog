@@ -39,3 +39,6 @@ Estás ->cosas: keapesarlookhard
 Note right of China: China thinks\Paulo londra
 Ya-->Esto: Es realmente? 
 Confuso->>China: asi es aprender
+
+
+### CREADO POR EL INCREÍBLE PLATZI TEAM
