@@ -23,7 +23,7 @@ TEMAS
 
 Con lindos botones con estilos diferentes `<PETRO>` (Cómo este).
 
-Incluso invitandolos a que se pasen por mis redes sociales
+Incluso invitandolos a que se pasen por mis redes sociales	
 Instagram: @_angel_garci_a
 Twitter:  @ngelGar76174193
 
@@ -39,3 +39,7 @@ Estás ->cosas: keapesarlookhard
 Note right of China: China thinks\Paulo londra
 Ya-->Esto: Es realmente? 
 Confuso->>China: asi es aprender
+
+
+### CREADO POR EL INCREÍBLE PLATZI TEAM
+Bueno, esto aparecera?
